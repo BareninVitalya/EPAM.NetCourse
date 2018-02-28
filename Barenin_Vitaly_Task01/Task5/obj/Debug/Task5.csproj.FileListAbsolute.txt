@@ -1,0 +1,6 @@
+E:\Epam\1\Barenin_Vitaly_Task01\Task5\bin\Debug\Task5.exe.config
+E:\Epam\1\Barenin_Vitaly_Task01\Task5\bin\Debug\Task5.exe
+E:\Epam\1\Barenin_Vitaly_Task01\Task5\bin\Debug\Task5.pdb
+E:\Epam\1\Barenin_Vitaly_Task01\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+E:\Epam\1\Barenin_Vitaly_Task01\Task5\obj\Debug\Task5.exe
+E:\Epam\1\Barenin_Vitaly_Task01\Task5\obj\Debug\Task5.pdb
