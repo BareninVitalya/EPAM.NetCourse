@@ -1,0 +1,7 @@
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\bin\Debug\Task1.exe.config
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\bin\Debug\Task1.exe
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\bin\Debug\Task1.pdb
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\obj\Debug\Task1.exe
+E:\Epam\2\Brenin_Vitaly_Task02\Task1\obj\Debug\Task1.pdb
