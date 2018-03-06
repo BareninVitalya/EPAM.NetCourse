@@ -1,0 +1,7 @@
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\bin\Debug\Task6.exe.config
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\bin\Debug\Task6.exe
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\bin\Debug\Task6.pdb
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\obj\Debug\Task6.exe
+E:\Epam\3\Barenin_Vitaly_Task03\Task6\obj\Debug\Task6.pdb
