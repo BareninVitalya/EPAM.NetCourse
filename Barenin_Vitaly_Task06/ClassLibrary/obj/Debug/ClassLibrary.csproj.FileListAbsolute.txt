@@ -1,0 +1,6 @@
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\ClassLibrary\obj\Debug\ClassLibrary.pdb

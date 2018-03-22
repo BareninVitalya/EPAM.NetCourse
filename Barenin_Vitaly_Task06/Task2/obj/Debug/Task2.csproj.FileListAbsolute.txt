@@ -1,0 +1,7 @@
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\bin\Debug\Task2.exe.config
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\bin\Debug\Task2.exe
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\bin\Debug\Task2.pdb
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\obj\Debug\Task2.exe
+E:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task06\Task2\obj\Debug\Task2.pdb
