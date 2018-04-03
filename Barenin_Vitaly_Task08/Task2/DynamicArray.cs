@@ -2,12 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task1
 {
-    public class DynamicArray<T> : IEnumerable where T : IComparable<T>, new()
+    public class DynamicArray<T> : IEnumerable<T> where T : IComparable<T>, new()
     {
         public int Capacity
         {
@@ -38,6 +36,11 @@ namespace Task1
         public DynamicArray()
         {
             this.array = new T[8];
+        }
+        public DynamicArray(IEnumerable<T> enumerable)
+        {
+            array = enumerable.ToArray<T>();
+            length = array.Length;
         }
         public DynamicArray(int capacity)
         {
@@ -152,12 +155,17 @@ namespace Task1
             }
         }
 
-        public IEnumerator GetEnumerator()
+        IEnumerator IEnumerable.GetEnumerator()
         {
-            return (IEnumerator)new DynamicArrayEnumenator<T>(this);
+            return GetEnumerator();
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            return new DynamicArrayEnumenator<T>(this);
         }
     }
-    public class DynamicArrayEnumenator<T> : IEnumerator where T : IComparable<T>, new()
+    public class DynamicArrayEnumenator<T> : IEnumerator<T> where T : IComparable<T>, new()
     {
         private int position = -1;
         private DynamicArray<T> dynamicArray;
@@ -165,7 +173,15 @@ namespace Task1
         {
             this.dynamicArray = dynamicArray;
         }
-        public object Current
+        object IEnumerator.Current
+        {
+            get
+            {
+                return Current;
+            }
+        }
+
+        public T Current
         {
             get
             {
@@ -175,7 +191,7 @@ namespace Task1
 
         public bool MoveNext()
         {
-            if (position == dynamicArray.Length)
+            if (position == dynamicArray.Length-1)
             {
                 return false;
             }
@@ -189,6 +205,10 @@ namespace Task1
         public void Reset()
         {
             position = -1;
+        }
+
+        public void Dispose()
+        {
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\nokav\source\repos\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.csprojRe
 C:\Users\nokav\source\repos\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
 C:\Users\nokav\source\repos\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.exe
 C:\Users\nokav\source\repos\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.pdb
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\bin\Debug\Task1.exe.config
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\bin\Debug\Task1.exe
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\bin\Debug\Task1.pdb
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.exe
+G:\Repository\EPAM.NetCourse\Barenin_Vitaly_Task07\Task1\obj\Debug\Task1.pdb

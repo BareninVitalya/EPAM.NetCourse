@@ -11,6 +11,8 @@ namespace Task1
         static void Main(string[] args)
         {
             DynamicArray<int> dynamicArray = new DynamicArray<int>(5);
+            List<int> list = new List<int> {1,2,3,4,5,6,7};
+            DynamicArray<int> newDynamicArray = new DynamicArray<int>(list);
             DynamicArray<char> dynamicArrayChar = new DynamicArray<char>(5);
             dynamicArray.Add(1);
             dynamicArray.Add(4);
@@ -24,18 +26,22 @@ namespace Task1
             {
                 Console.WriteLine(dynamicArray[i]);
             }
-            dynamicArray.Remove(1);
-            dynamicArray.Sort();
-            Console.WriteLine();
-            for (int i = 0; i < dynamicArray.Length; i++)
-            {
-                Console.WriteLine(dynamicArray[i]);
-            }
-            foreach (int j in dynamicArray)
+            //dynamicArray.Remove(1);
+            //dynamicArray.Sort();
+            //Console.WriteLine();
+            //for (int i = 0; i < dynamicArray.Length; i++)
+            //{
+            //    Console.WriteLine(dynamicArray[i]);
+            //}
+            foreach (int j in newDynamicArray)
             {
                 Console.WriteLine(j+"!!");
             }
-            //Console.WriteLine("{0},{1}", dynamicArray.Capacity, dynamicArray.Length);
+            foreach (var j in dynamicArray)
+            {
+                Console.WriteLine(j + "+");
+            }
+            Console.WriteLine("{0},{1}", dynamicArray.Capacity, dynamicArray.Length);
             //dynamicArray.Remove(3);
             //for (int i = 0; i < dynamicArray.Length; i++)
             //{
